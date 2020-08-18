@@ -1,0 +1,84 @@
+﻿body {
+    background-color: #95a5a6;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#Nome {
+    font-size: 17px;
+    font-family: monospace;
+    border-radius: 5px;
+    border-bottom: 1px solid #f1c40f;
+}
+
+#DivGG {
+    border-radius: 8px;
+    width: 595px;
+    height: 842px;
+    margin-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+    box-shadow: 0px 0px 15px black inset;
+}
+
+#ParteDireita {
+    width: 250px;
+    height: 710px;
+    float: right;
+}
+
+#ParteEsquerda {
+    width: 345px;
+    height: 710px;
+    float: left;
+}
+
+#Habilidades {
+    padding: 10px;
+    height: 250px;
+}
+
+#Objetivo {
+    border-radius: 10px;
+    height: 166px;
+    background-color: #f1c40f;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+#Contatos {
+    height: 205Px;
+    padding: 5px;
+}
+
+#Experiencia {
+    border-radius: 10px;
+    height: 436px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #f1c40f;
+}
+
+#Referências {
+    border-radius: 10px;
+    height: 220px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #f1c40f;
+}
+
+.textoCentralizado {
+    font-family: monospace;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
